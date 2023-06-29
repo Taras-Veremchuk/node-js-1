@@ -1,0 +1,11 @@
+# Отримуємо і виводимо весь список контактів у вигляді таблиці 
+https://monosnap.com/file/g4cuLH3GvveaRanIySi5lY98lRsZfL
+
+# Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує.
+https://monosnap.com/file/dX25TWSCxR0rZpvFzJHys1cd9v0RQj
+
+# Додаємо контакт та виводимо в консоль об'єкт новоствореного контакту
+https://monosnap.com/file/lwjm3tSMgOPfNFJl2pepNitCsRUg19
+
+# Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.
+https://monosnap.com/file/OwBb9MPlbnKhX8SajLcCin8AxKEPaP
